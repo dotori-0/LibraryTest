@@ -1,0 +1,22 @@
+{
+  "name": "LibraryTest",
+  "version": "0.1.0",
+  "summary": "A short description of LibraryTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sani/LibraryTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sani": "sesan131@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sani/LibraryTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LibraryTest/Classes/**/*"
+}
